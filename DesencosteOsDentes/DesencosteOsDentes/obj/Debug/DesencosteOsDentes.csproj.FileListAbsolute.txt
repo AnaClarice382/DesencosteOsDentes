@@ -1,0 +1,14 @@
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\bin\Debug\DesencosteOsDentes.exe.config
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\bin\Debug\DesencosteOsDentes.exe
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\bin\Debug\DesencosteOsDentes.pdb
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.csprojAssemblyReference.cache
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.Properties.Resources.resources
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.csproj.GenerateResource.cache
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.csproj.CoreCompileInputs.cache
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.exe
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.pdb
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\bin\Debug\LiteDB.dll
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\bin\Debug\LiteDB.xml
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.OccurenceBruxismForm.resources
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.csproj.CopyComplete
+C:\Users\ana.clarice\source\repos\DesencosteOsDentes\DesencosteOsDentes\obj\Debug\DesencosteOsDentes.Graphics.resources
